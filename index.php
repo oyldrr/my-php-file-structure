@@ -25,6 +25,12 @@ include_once "header.php";
 
 <body class="index">
 
+    <?php
+
+    // Displaying header
+    include_once "header.php";
+    ?>
+
     <!-- Content of page goes here -->
     <div class="content">
 
